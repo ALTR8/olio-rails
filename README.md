@@ -1,24 +1,7 @@
-# README
+The Rails API created as the backend for Olio - by Alexandra Roth, Charles Samuels, and Dylan Breves.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## USAGE
+Everything is packaged and ready to go. Run the following to run this application locally
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ` bundle install `
+- ` rails s `
